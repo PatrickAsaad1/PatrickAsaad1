@@ -43,7 +43,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [Discord Bot](https://github.com/idk123-bot/Main)
+### 🤖 [Discord Bot](https://github.com/PatrickAsaad1/Main)
 
 > A feature-rich Discord bot with **19 commands** across utilities, games, encryption, and more.
 
@@ -81,11 +81,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idk123-bot&show_icons=true&theme=tokyonight&hide_border=true" alt="Patrick's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PatrickAsaad1&show_icons=true&theme=tokyonight&hide_border=true" alt="Patrick's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idk123-bot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAsaad1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
