@@ -66,16 +66,6 @@
 
 ---
 
-## 🎬 Demo
-
-<!-- Replace with your real GIF or screenshots -->
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Add+Your+Bot+Demo+Here" alt="Demo Preview" />
-</p>
-
----
-
 ### 🌐 JS Practice Dashboard
 
 > Interactive JavaScript dashboard with **20+ mini-projects** (DOM, APIs, events).
