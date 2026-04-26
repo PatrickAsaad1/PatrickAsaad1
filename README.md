@@ -12,10 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Python+Developer;Discord+Bot+Builder;Web+Developer;Arduino+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PatrickAsaad1&color=blue&style=for-the-badge" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
