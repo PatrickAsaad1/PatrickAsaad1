@@ -55,7 +55,7 @@
 
 ### 🤖 [Discord Bot](https://github.com/PatrickAsaad1/Main)
 
-> A feature-rich Discord bot with **32+ commands** across utilities, games, encryption, and more.
+> A feature-rich Discord bot with **31+ commands** across utilities, games, encryption, fun, and more.
 
 * 🎮 Games: Rock Paper Scissors, Number Guessing, and more  
 * 🔐 Security: Fernet encryption, secure password generation  
