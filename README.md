@@ -95,10 +95,6 @@
   <img width="48%" src="https://streak-stats.demolab.com?user=PatrickAsaad1&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAsaad1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 Contact Me
