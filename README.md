@@ -14,8 +14,8 @@
 
 ## 🧑‍💻 About Me
 
-* 🐍 I build **real-world projects with Python** — from Discord bots to automation tools  
-* 🌐 I build **responsive web interfaces** using JavaScript, HTML, and CSS  
+* 🐍 I build **real-world projects with Python** — from Discord bots to web apps  
+* 🌐 I build **responsive web interfaces** using Django, JavaScript, HTML, and CSS  
 * 🔐 Interested in **security** — encryption, password generation, and safe coding  
 * 🔌 I create hardware projects — currently an **Arduino reaction game**  
 * 🏆 Certified in **Cloud Computing, AI, and Data Storage** (Huawei ICT Academy & Udacity)  
@@ -25,9 +25,9 @@
 
 ## 🔭 Currently Working On
 
-* Improving my Discord bot with more advanced systems  
-* Learning backend development & APIs  
-* Building more real-world projects  
+* Learning **Django** and building full-stack web applications  
+* Building a **Kwentra demo site** modeled after a real hospitality tech company  
+* Expanding my portfolio with real-world projects  
 
 ---
 
@@ -44,6 +44,7 @@
 ### Tools & Libraries
 
 ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -53,14 +54,20 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [Discord Bot](https://github.com/PatrickAsaad1/Main)
+### 🤖 [Discord Bot](https://github.com/PatrickAsaad1/discord-bot-cli)
 
-> A feature-rich Discord bot with **36+ commands** across utilities, games, encryption, fun, and more.
+> A feature-rich Discord bot with **31 commands** across utilities, games, encryption, fun, and more.
 
 * 🎮 Games: Rock Paper Scissors, Number Guessing, and more  
 * 🔐 Security: Fernet encryption, secure password generation  
 * 🌦️ APIs: Weather, quotes, cat & dog images  
 * 🖥️ Includes standalone **CLI versions** of all games  
+
+---
+
+### 🌐 [Kwentra Demo](https://github.com/PatrickAsaad1/Python-Django-Projects)
+
+> A full Django web application modeled after a real hospitality tech company, featuring home, about, services, contact, and members pages with a professional dark-themed UI.
 
 ---
 
