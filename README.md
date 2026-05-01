@@ -95,11 +95,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="![PatrickAsaad1's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=PatrickAsaad1&theme=radical&hide_border=true)" />
-</p>
+<div align="center">
+
+### Contribution Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=PatrickAsaad1&theme=radical)
+
+### Profile Summary
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrickAsaad1&theme=radical)
+
+### Language Stats
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrickAsaad1&theme=radical)
+![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrickAsaad1&theme=radical)
+
+### Trophy Collection
+[![trophy](https://github-profile-trophy.vercel.app/?username=PatrickAsaad1&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
