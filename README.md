@@ -109,9 +109,6 @@
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrickAsaad1&theme=radical)
 ![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrickAsaad1&theme=radical)
 
-### Trophy Collection
-[![trophy](https://github-profile-trophy.vercel.app/?username=PatrickAsaad1&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
