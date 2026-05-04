@@ -85,13 +85,15 @@
 
 ## 🏆 Certifications
 
-| Certificate                      | Issuer             |
-|---------------------------------|--------------------|
-| Artificial Intelligence         | Huawei ICT Academy |
-| Cloud Computing                 | Huawei ICT Academy |
-| Data Storage                    | Huawei ICT Academy |
-| *(+ more Huawei certifications)*| Huawei ICT Academy |
-| MCIT Egypt Nanodegree           | Udacity            |
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| Digital Egypt Cubs Initiative — Level One Nanodegree | Udacity / MCIT Egypt | Nov 2025 |
+| Artificial Intelligence (English) | Huawei ICT Academy | Jan 2026 |
+| Artificial Intelligence (Arabic) | Huawei ICT Academy | Jan 2026 |
+| Cloud Computing | Huawei ICT Academy | Jan 2026 |
+| Data Management and Analytics | Huawei ICT Academy | Jan 2026 |
+| Data Management & Analysis — CRA Program | Huawei ICT Academy | Jan 2026 |
+| Information Representation & Data Organization | Huawei ICT Academy | Feb 2026 |
 
 ---
 
