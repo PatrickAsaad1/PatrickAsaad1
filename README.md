@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Python+Developer;Discord+Bot+Builder;Web+Developer;Arduino+Enthusiast" />
+  <img width="60%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Python+Developer;Discord+Bot+Builder;Python+Django+Dev;Web+Developer;Arduino+Enthusiast" />
 </p>
 
 ---
@@ -106,10 +106,6 @@
 
 ### Profile Summary
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrickAsaad1&theme=radical)
-
-### Language Stats
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrickAsaad1&theme=radical)
-![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrickAsaad1&theme=radical)
 
 </div>
 
