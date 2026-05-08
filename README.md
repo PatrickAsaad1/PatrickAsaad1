@@ -82,7 +82,7 @@ Interactive JS dashboard with 20+ features and a resource hub website — built 
 ---
  
 ### ⚡ [Arduino Reaction Trainer](https://github.com/PatrickAsaad1/Hardware-Projects)
-Two-player competitive reaction game with LEDs, buzzer, and randomized timing. Built on Arduino.
+Two-player competitive reaction game with LEDs, a buzzer, and randomized timing. Built on Arduino.
  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -133,7 +133,8 @@ Two-player competitive reaction game with LEDs, buzzer, and randomized timing. B
 ## 📊 GitHub Stats
  
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=PatrickAsaad1&theme=radical)
+  
+![Github Streak](https://streak-stats.demolab.com/?user=PatrickAsaad1&theme=radical)
  
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrickAsaad1&theme=radical)
  
