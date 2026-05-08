@@ -134,9 +134,9 @@ Two-player competitive reaction game with LEDs, a buzzer, and randomized timing.
  
 <div align="center">
   
-![Github Streak](https://streak-stats.demolab.com/?user=PatrickAsaad1&theme=radical)
+![Github Streak](https://streak-stats.demolab.com/?user=PatrickAsaad1&theme=tokyonight)
  
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrickAsaad1&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrickAsaad1&theme=tokyonight)
  
 </div>
 
