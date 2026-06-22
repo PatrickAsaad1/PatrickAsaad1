@@ -23,70 +23,7 @@ I'm a Python developer focused on building real, production-grade projects — f
 - 🌐 Full-stack web development with **Django**, JavaScript, HTML/CSS
 - 🔐 Interested in security — encryption, fuzzing, and vulnerability detection
 - 🏆 Certified in **AI, Cloud Computing & Data** (Huawei ICT Academy · Udacity)
----
- 
-## 🚀 Projects
- 
-### 🤖 [Discord Bot — 31+ Commands](https://github.com/PatrickAsaad1/CLI-Game-And-A-Discord-Bot)
-Production Discord bot actively used by real users. Features a 10-game CLI suite, SQLite database, 10+ API integrations, and Fernet encryption.
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
- 
----
- 
-### 🧠 [Generative AI — Trained from Scratch](https://github.com/PatrickAsaad1/Generative-Supervised-AI)
-Fine-tuned DistilGPT-2 on custom data using Hugging Face Transformers. Produces unique responses every run via supervised training.
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
- 
----
- 
-### 🛡️ [Unsupervised AI — Bot Fuzzer](https://github.com/PatrickAsaad1/Unsupervised-AI)
-Unsupervised ML model that analyzes raw bot logs to detect patterns, errors, and vulnerabilities — no labels required.
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
- 
----
- 
-### 🌍 [Language Detector AI](https://github.com/PatrickAsaad1/Language-Identifier-AI)
-Supervised ML classifier that identifies the language of any text input with high accuracy.
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
- 
----
- 
-### 🌐 [Kwentra — Django Web App](https://github.com/PatrickAsaad1/Python-Django-Projects)
-Full-stack Django app with user authentication, 8 pages, dark-themed UI, and a CI/CD pipeline.
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
- 
----
- 
-### 🌐 [JavaScript Dashboard](https://github.com/PatrickAsaad1/Web-Projects)
-Interactive JS dashboard with 20+ features and a resource hub website — built in vanilla HTML, CSS, and JavaScript.
- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
- 
----
- 
-### ⚡ [Arduino Reaction Trainer](https://github.com/PatrickAsaad1/Hardware-Projects)
-Two-player competitive reaction game with LEDs, a buzzer, and randomized timing. Built on Arduino.
- 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
- 
+
 ---
  
 ## 🛠️ Tech Stack
@@ -128,18 +65,6 @@ Two-player competitive reaction game with LEDs, a buzzer, and randomized timing.
 | Data Management & Analysis — CRA Program | Huawei ICT Academy | Jan 2026 |
 | Information Representation & Data Organization | Huawei ICT Academy | Feb 2026 |
  
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-  
-![Github Streak](https://streak-stats.demolab.com/?user=PatrickAsaad1&theme=tokyonight)
- 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrickAsaad1&theme=tokyonight)
- 
-</div>
-
 ---
  
 <p align="center">⭐ Feel free to explore my work and reach out!</p>
